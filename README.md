@@ -41,17 +41,3 @@ Computador o laptop con los siguientes programas instalados:
 - [Tracer](https://github.com/beast-dev/tracer/releases/tag/v1.7.1). Para visualizar resultados de MCMC.
 
 **Nota:** Es posible que usemos otros programas, pero les avisaré con tiempo. Todos los programas de inferencia filogenética vienen acompañados con sus respectivos tutoriales. Se sugiere seguirlos en su tiempo libre; no se limiten únicamente a los ejercicios de la clase.  
-
-## Contenido
-
-**[Clase 1](/clase_1/Taller_matrices.md).**
-
-**PARTE 1. Repaso y corto taller de manejo de matrices y datos en R.** se hará un breve repaso de los recursos informáticos para construcción de matrices con editor de texto y el programa Mesquite. Descargar la presentación [aquí](/clase_1/Clase_1.pdf). Para esta parte se deben descargar las siguientes matrices para este ejercicio: [ADN.tnt](/clase_1/ADN.tnt), [morfologia.tnt](/clase_1/morfologia.tnt),[morfologia.nex](/clase_1/morfologia.nex), [ADN.nex](/clase_1/ADN.nex), [ADN.phy](/clase_1/ADN.phy). 
-
-**[Ir al taller aquí](/clase_1/Taller_matrices.md)**
-
-**PARTE 2.Taller de visualización y manipulación de archivos de árboles filogenéticos.** Para esta parte de la clase haremos un ejercicio práctico en R para visualizar y manipular árboles filogenéticos 
-
-**[Ir al taller aquí](/clase_1/Taller_arboles.md)**
-
-#
