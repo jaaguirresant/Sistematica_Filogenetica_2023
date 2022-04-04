@@ -41,3 +41,20 @@ Computador o laptop con los siguientes programas instalados:
 - [Tracer](https://github.com/beast-dev/tracer/releases/tag/v1.7.1). Para visualizar resultados de MCMC.
 
 **Nota:** Es posible que usemos otros programas, pero les avisaré con tiempo. Todos los programas de inferencia filogenética vienen acompañados con sus respectivos tutoriales. Se sugiere seguirlos en su tiempo libre; no se limiten únicamente a los ejercicios de la clase.  
+
+## Contenido
+
+**Clase 1.** Se hará un breve repaso de los recursos informáticos para construcción de matrices con editor de texto, el programa Mesquite y R. Para esta parte se deben descargar las siguientes matrices para este ejercicio: [ADN.tnt](/Clase_1/ADN.tnt), [morfologia.tnt](/Clase_1/morfologia.tnt),[morfologia.nex](/Clase_1/morfologia.nex), [ADN.nex](/Clase_1/ADN.nex), [ADN.phy](/Clase_1/ADN.phy), [ADN_1.nex](/Clase_1/ADN_1.nex), [ADN_2.nex](/Clase_1/ADN_2.nex). 
+
+**[Ir al taller aquí](/Clase_1/Taller_matrices.md)**
+
+En la segunda parte de la clase, se hará un breve repaso de R a través de un ejercicio de visualización y manipulación de archivos de árboles filogenéticos. Para esta parte de la clase haremos un ejercicio práctico en R para visualizar y manipular árboles filogenéticos 
+
+**[Ir al taller aquí](/Clase_1/Taller_arboles.md)**
+**[Tambipen puede bajar el script en R directamente aquí](/Clase_1/Manipulacion_arboles.R)**
+
+**_NOTA:_** Leer los siguientes artículos para la clase del miércoles:
+
+- Argumentación Hennigiana y Máxima Parsimonia: [Wiley & Lieberman 2011 - Capítulo 6](/Clase_1/MP_Wiley_Lieberman.pdf)
+
+- [González 1999](/Clase_1/Gonzalez_1999_Aristolochia.pdf)
