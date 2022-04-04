@@ -50,8 +50,7 @@ Computador o laptop con los siguientes programas instalados:
 
 En la segunda parte de la clase, se hará un breve repaso de R a través de un ejercicio de visualización y manipulación de archivos de árboles filogenéticos. Para esta parte de la clase haremos un ejercicio práctico en R para visualizar y manipular árboles filogenéticos 
 
-**[Ir al taller aquí](/Clase_1/Taller_arboles.md)**
-**[Tambipen puede bajar el script en R directamente aquí](/Clase_1/Manipulacion_arboles.R)**
+**[Ir al script aquí](/Clase_1/Manipulacion_arboles.R)**
 
 **_NOTA:_** Leer los siguientes artículos para la clase del miércoles:
 
