@@ -88,7 +88,7 @@ i. Exportar la matriz a diferentes formatos.
 
    - File, Export y escoger el formato.
 
-### 3. Generar y subir matrices en R
+### 3. Generar y subir matrices en R (opcional)
 
 Sin duda, R es la mejor plataforma para trabajar con datos filogenéticos. Por esto es importante familiarizarse con esta plataforma y entender como trabajar con las matrices desde allí. Para este ejercicio no es necesario tener destrezas de programación, pero si recomienda estar familiarizado con elementos básicos de sintaxis en R. Para más información, [esta guía básica es útil](https://cran.r-project.org/doc/contrib/rdebuts_es.pdf).
 
