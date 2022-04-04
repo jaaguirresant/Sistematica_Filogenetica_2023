@@ -88,6 +88,11 @@ i. Exportar la matriz a diferentes formatos.
 
    - File, Export y escoger el formato.
 
+### 2.1. Matrices de ADN en Mesquite
+
+- Siga el tutorial de Mesquite y la explicación del profesor para (1) leer matrices de distintos genes en Mesquite y (2) concatenar matrices. 
+- TAREA: Entregar una matriz concatenada de tres genes en formato nexus y con las particiones debidamente especificadas.
+
 ### 3. Generar y subir matrices en R (opcional)
 
 Sin duda, R es la mejor plataforma para trabajar con datos filogenéticos. Por esto es importante familiarizarse con esta plataforma y entender como trabajar con las matrices desde allí. Para este ejercicio no es necesario tener destrezas de programación, pero si recomienda estar familiarizado con elementos básicos de sintaxis en R. Para más información, [esta guía básica es útil](https://cran.r-project.org/doc/contrib/rdebuts_es.pdf).
@@ -185,5 +190,3 @@ morph.matrix
 matriz_morfo <- read_nexus_matrix("morfologia.nex")
 matriz_morfo
 ```
-
-- Repita este ejercicio con la matriz de 5 x 5 que generó en Mesquite y en R y subir el script de R al DRIVE del curso: entregas/Taller_matrices.
