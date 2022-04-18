@@ -52,8 +52,22 @@ En la segunda parte de la clase, se hará un breve repaso de R a través de un e
 
 **[Ir al script aquí](/Clase_1/Manipulacion_arboles.R)**
 
-**_NOTA:_** Leer los siguientes artículos para la clase del miércoles:
+**_NOTA:_** Leer los siguientes artículos para la clase del miércoles y jueves:
 
 - Argumentación Hennigiana y Máxima Parsimonia: [Wiley & Lieberman 2011 - Capítulo 6](/Clase_1/MP_Wiley_Lieberman.pdf)
 
 - [González 1999](/Clase_1/Gonzalez_1999_Aristolochia.pdf)
+
+#
+
+**[Clase 2](/clase_2/clase_2.pdf). Inferencia Filogenética: Máxima parsimonia y búsqueda de árboles óptimos** En esta clase se presenta el primer método que incorpora explícitamente un criterio de optimalidad: la Máxima Parsimonia. Además, e explica el problema de la búsqueda de árboles óptimos en relación al número de taxones, así como las estrategias exactas y heurísicas para explorar el "espacio" de árboles posibles y árboles óptimos. (Descargar diapositivas [aquí](/clase_2/clase_2.pdf))
+
+<p align="center">
+  <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/Clase_3/Strict.png" width="250" height="200" />
+</p>
+
+Como complemento de la clase, cada estudiante deberá hacer el siguiente taller y subirlo al Drive a más tardar el miércoles 27 de abril de 2022:
+
+**[Ir al taller aquí](/clase_2/Taller_2.md)**
+
+
