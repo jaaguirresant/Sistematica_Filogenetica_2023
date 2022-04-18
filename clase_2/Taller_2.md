@@ -8,7 +8,7 @@ _[Volver a inicio](/README.md)_
 
 Considere la siguiente matriz de caracteres, cuyo grupo interno son varios taxones de Angiospermas y el grupo ajeno es un taxon de gimnospermas (pino):
 
-![](/clase_2/matriz.jpg)
+![](/clase_2/matriz.jpeg)
 
 
 1. Con base en esta matriz, infiera el árbol usando argumentación Hennigiana.
@@ -43,7 +43,7 @@ Usando esta matriz y el árbol:
 
 Considere las tres hipótesis filogenéticas y la matriz de caracteres de la siguiente figura:
 
-![](/clase_2/Ejercicio_2.jpg)
+![](/clase_2/Ejercicio_2.jpeg)
 
 Con base en esta información:
 
@@ -57,7 +57,7 @@ Con base en esta información:
 
 Con base en el árbol filogenético y matriz de caracteres de la siguiente figura:
 
-![](/clase_2/Ejercicio_3.jpg)
+![](/clase_2/Ejercicio_3.jpeg)
 
 1. Optimice los caracteres en el árbol.
 
@@ -81,7 +81,7 @@ Con base al siguiente árbol y el caracter ilustrado en la siguiente figura:
 
 Los tres árboles de la siguiente figura son los más parsimoniosos de tres análisis de Máxima Parsimonia realizados independientemente a partir de matrices de los marcadores de ADN: COI, 28S y NADH.
 
-![](/clase_2/Ejercicio_5.jpg)
+![](/clase_2/Ejercicio_5.jpeg)
 
 Con base en este resultado:
 
