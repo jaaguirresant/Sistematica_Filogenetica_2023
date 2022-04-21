@@ -70,4 +70,24 @@ Como complemento de la clase, cada estudiante deberá hacer el siguiente taller 
 
 **[Ir al taller aquí](/clase_2/Taller_2.md)**
 
+#
+
+**Clase 3. Maxima Parsimonia en la practica** 
+
+
+1. [Taller artículo González (1999)](/clase_3/Taller_Lectura_Gonzalez_1999.md). Subir las respuestas al Drive a más tardar el jueves 28 de abril.
+
+2. Corta práctica computacional de inferencia filogenética con Máxima Parsimonia usando el programa TNT y el paquete Phangorn de R. **[ir al taller aquí](/clase_3/Taller_MP2.md)**
+
+
+**_NOTA:_** Para la clase del jueves y viernes leer:
+
+1. Modelos evolutivos: [Strimmer & Haeseler 2009](/clase_3/Modelos.pdf).
+
+2. Filogenética paramétrica: [Wiley & Lieberman 2011 - Capítulo 7](/clase_3/Parametric_Phylogenetics.pdf).
+
+3. Atracción de ramas largas: [Philippe et al. 2005](/clase_3/LBA_2005.pdf).
+
+#
+
 
