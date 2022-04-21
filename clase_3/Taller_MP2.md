@@ -7,7 +7,7 @@ _[Volver a inicio](/README.md)_
 
 TNT está especialmente diseñado para correr análisis de Máxima Parsimonia a partir de cualquier conjunto de datos y usa varias estratégias de búsqueda de árboles. El programa funciona con comando de lineas para Windows, IOs y Linux. Existe un GUI para Windows únicamente. El manual y los tutoriales los pueden encontrar en la siguiente página: http://www.lillo.org.ar/phylogeny/tnt/.
 
-Para familiriazrse con el GUI de TNT, el siguiente es un ejercico básico para correr con las matrices que ustedes mismos generaron en el Taller 1. Pueden seguir la sigueinte guía básica o el siguiente tutorial: [bajar tutorial](/clase_4/Quick_Tutorial_TNT.ppt).
+Para familiriazrse con el GUI de TNT, el siguiente es un ejercico básico para correr con las matrices que ustedes mismos generaron en el Taller 1. Pueden seguir la sigueinte guía básica o el siguiente tutorial: [bajar tutorial](/clase_3/Quick_Tutorial_TNT.ppt).
 
 1. Subir la matriz en formato tnt 
 
@@ -37,6 +37,8 @@ Responder las siguientes preguntas y subir las respuestas al Drive:
 
 
 ## Máxima Parsimonia en R
+
+Usaremos la matriz ADN.nex de la primera práctica del curso.
 
 ```
 # Inferencia filogenética con Máxima Parsimonia
