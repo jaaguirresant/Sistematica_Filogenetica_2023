@@ -106,7 +106,7 @@ Como complemento de la clase, cada estudiante deberá hacer el siguiente taller 
 
 2. Taller de software para Máxima Verosimilitud: 
 
-- Máxima verosimilitud en R [ir al Script de R aquí](/clase_5/ML.R). Para este taller usaremos la matriz de ADN de primates del siguiente enlace: [ADN.nex](/Clase_1/ADN.nex). 
+- Máxima verosimilitud en R [ir al Script de R aquí](/Clase_5/ML.R). Para este taller usaremos la matriz de ADN de primates del siguiente enlace: [ADN.nex](/Clase_1/ADN.nex). 
 - Máxima verosimilitud en RAxML-GUI
 
 #
