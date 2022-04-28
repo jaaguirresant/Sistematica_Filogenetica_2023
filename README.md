@@ -98,4 +98,15 @@ Como complemento de la clase, cada estudiante deberá hacer el siguiente taller 
 
 #
 
+**Clases 5 y 6. Máxima Verosimilitud** Estas clases se dividen en dos partes:
 
+1. Charla sobre los fundamentos de la máxima verosimilitud como criterio de opimalidad ([Descargar diapositivas aquí](/Clase_5/clase_5.pdf)). 
+
+   - **Tarea.** Realizar los ejercicios del siguiente taller: [TALLER MV](/Clase_5/Taller_ML_1.md)
+
+2. Taller de software para Máxima Verosimilitud: 
+
+- Máxima verosimilitud en R [ir al Script de R aquí](/clase_5/ML.R). Para este taller usaremos la matriz de ADN de primates del siguiente enlace: [ADN.nex](/Clase_1/ADN.nex). 
+- Máxima verosimilitud en RAxML-GUI
+
+#
