@@ -111,7 +111,7 @@ Como complemento de la clase, cada estudiante deberá hacer el siguiente taller 
 
 
 #
-**Clase 7. Inferencia Bayesiana.** El objetivo de esta clase es el de aprender como implementar la estadística bayesiana en el contexto de la inferencia filogenética. Para esto, presentaré una corta clase de conceptos fundamentales (bajar diapositivas [aquí](/Clase_7/clase_7.pdf) y haremos un ejercicio práctico de inferencia filogenética con el programa [BEAST](https://www.beast2.org/).
+**Clase 7. Inferencia Bayesiana.** El objetivo de esta clase es el de aprender como implementar la estadística bayesiana en el contexto de la inferencia filogenética. Para esto, presentaré una corta clase de conceptos fundamentales (bajar diapositivas [aquí](/Clase_7/clase_9.pdf) y haremos un ejercicio práctico de inferencia filogenética con el programa [BEAST](https://www.beast2.org/).
 
 <p align="center">
   <img src="https://anabelforte.com/wp-content/uploads/2020/04/Thomas_Bayes.gif" width="250" height="270" />
