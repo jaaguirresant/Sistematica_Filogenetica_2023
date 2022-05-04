@@ -124,3 +124,13 @@ Para la práctica usaremos la matriz [ADN.nex](/Clase_1/ADN.nex) y analizaremos 
 **Tarea:** Leer para la próxima clase el siguiente artículo: [Sanderson & Schauffer (2002)](/Clase_7/Lectura.pdf).
 
 #
+
+**Clase 8. Evaluación crítica de hipótesis filogenéticas** En esta clase estudiaremos de forma crítica algunos aspectos metodológicos y biológicos generales que deben tenerse en cuenta en los análisis de inferencia filogenética. Para esto haremos una corta clase donde mencionaremos estos aspectos y algunas ayudas metodológicas para sobrellevarlos ([bajar diaposistivas acá](/Clase_8/Clase_10.pdf)). La clase se complementa con un taller sobre los temas aprendidos ([Ir al Taller](/Clase_8/Taller_clase_8.md)).
+
+<p align="center">
+  <img src="https://www.researchgate.net/publication/330808851/figure/fig1/AS:721682977275905@1549074038961/Effect-of-introgression-and-incomplete-lineage-sorting-ILS-in-molecular.png" width="350" height="250" />
+</p>
+
+[Fuente de la imagen](https://www.researchgate.net/publication/330808851/figure/fig1/AS:721682977275905@1549074038961/Effect-of-introgression-and-incomplete-lineage-sorting-ILS-in-molecular.png)
+
+#
