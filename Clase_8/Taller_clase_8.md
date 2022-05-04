@@ -2,7 +2,20 @@
 
 _[Volver al inicio](/README.md)_
 
-1. Suponga que usted ha secuenciado tres genes diferentes para el mismo grupo de taxones. Las búsquedas de parsimonia de cada gen individual resultaron en los siguientes longitudes de árbol, respectivamente: 72, 322 y 251 pasos (suma = 645 pasos). Suponga ahora que usted realizó una prueba de ILD (Incongruence Lentgh Difference Test) de 10 réplicas, lo cual generó 10 asignaciones aleatórias de aracteres a las tres particiones (del mismo tamaño que la matriz de los genes originales). La longitud de las tres particiones para los datos aleatorizados se muestra en en la siguiente tabla:
+1. Con base en la siguiente matriz: 
+
+<p align="center">
+  <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_4/BT.jpg" width="500" height="250" />
+</p>
+
+
+Crear una pseudoréplica para un análisis de Bootstrap
+
+Crear una pseudoréplica para un análisis de Jacknife (corte de 50%)
+
+#
+
+2. Suponga que usted ha secuenciado tres genes diferentes para el mismo grupo de taxones. Las búsquedas de parsimonia de cada gen individual resultaron en los siguientes longitudes de árbol, respectivamente: 72, 322 y 251 pasos (suma = 645 pasos). Suponga ahora que usted realizó una prueba de ILD (Incongruence Lentgh Difference Test) de 10 réplicas, lo cual generó 10 asignaciones aleatórias de aracteres a las tres particiones (del mismo tamaño que la matriz de los genes originales). La longitud de las tres particiones para los datos aleatorizados se muestra en en la siguiente tabla:
 
 |# de réplica|Longitud de la partición A|Longitud de la partición B|Longitud de la partición C|Suma de longitudes|
 |---|---|---|---|---|
@@ -36,5 +49,3 @@ _[Volver al inicio](/README.md)_
 </p>
 
 #
-
-3. Explique porqué la escogencia de un grupo ajeno distante puede aumentar los casos de atracción de ramas largas en la inferencia filogenética.
