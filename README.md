@@ -63,3 +63,15 @@ En la segunda parte de la clase, se hará un breve repaso de R a través de un e
 [Fuente de la imagen](https://www.researchgate.net/publication/330808851/figure/fig1/AS:721682977275905@1549074038961/Effect-of-introgression-and-incomplete-lineage-sorting-ILS-in-molecular.png)
 
 #
+
+**[Clase 2](/clase_2/clase_2.pdf). Inferencia Filogenética: Máxima parsimonia y búsqueda de árboles óptimos** En esta clase se presenta el primer método que incorpora explícitamente un criterio de optimalidad: la Máxima Parsimonia. Además, e explica el problema de la búsqueda de árboles óptimos en relación al número de taxones, así como las estrategias exactas y heurísicas para explorar el "espacio" de árboles posibles y árboles óptimos. (Descargar diapositivas [aquí](/clase_2/clase_2.pdf))
+
+<p align="center">
+  <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/Clase_3/Strict.png" width="250" height="200" />
+</p>
+
+Como complemento de la clase, cada estudiante deberá hacer el siguiente taller y subirlo al Drive a más tardar el miércoles 8 de marzo de 2023:
+
+**[Ir al taller aquí](/clase_2/Taller_2.md)**
+
+#
