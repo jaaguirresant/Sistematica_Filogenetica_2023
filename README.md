@@ -70,7 +70,7 @@ En la segunda parte de la clase, se hará un breve repaso de R a través de un e
   <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/Clase_3/Strict.png" width="250" height="200" />
 </p>
 
-Como complemento de la clase, cada estudiante deberá hacer el siguiente taller y subirlo al Drive a más tardar el miércoles 8 de marzo de 2023:
+Como complemento de la clase, cada estudiante deberá hacer el siguiente taller y subirlo al Drive a más tardar el lunes 13 de marzo de 2023:
 
 **[Ir al taller aquí](/clase_2/Taller_2.md)**
 
@@ -79,12 +79,12 @@ Como complemento de la clase, cada estudiante deberá hacer el siguiente taller 
 **Clase 3. Maxima Parsimonia en la practica** 
 
 
-1. [Taller artículo González (1999)](/clase_3/Taller_Lectura_Gonzalez_1999.md). Subir las respuestas al Drive a más tardar el jueves 28 de abril.
+1. [Taller artículo González (1999)](/clase_3/Taller_Lectura_Gonzalez_1999.md). Subir las respuestas al Drive a más tardar el lunes 13 de marzo.
 
 2. Corta práctica computacional de inferencia filogenética con Máxima Parsimonia usando el programa TNT y el paquete Phangorn de R. **[ir al taller aquí](/clase_3/Taller_MP2.md)**
 
 
-**_NOTA:_** Para la clase del jueves y viernes leer:
+**_NOTA:_** Para la clase del jueves y lunes leer:
 
 1. Modelos evolutivos: [Strimmer & Haeseler 2009](/clase_3/Modelos.pdf).
 
