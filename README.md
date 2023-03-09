@@ -93,3 +93,10 @@ Como complemento de la clase, cada estudiante deberá hacer el siguiente taller 
 3. Atracción de ramas largas: [Philippe et al. 2005](/clase_3/LBA_2005.pdf).
 
 #
+**Clase 4. Modelos evolutivos de sustitución.** Esta clase se destinan a entender los conceptos básicos del uso de modelos evolutivos explícitos para la inferencia filogenética usando la máxima verosimilitud como criterio de opimalidad ([Descargar diapositivas aquí](/clase_4/clase_4.pdf)). Como parte práctica, se hará un ejercicio demostrativo sobre la escogencia de modelos usando jModelTest y R ([ver script aquí](/clase_4/Taller_Modelos.md)).
+
+<p align="center">
+  <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_7/Imagen_c7.jpg" width="250" height="270" />
+</p>
+
+#
