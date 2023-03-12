@@ -44,7 +44,7 @@ Computador o laptop con los siguientes programas instalados:
 
 ## Contenido
 
-**Clase 1.** Se hará un breve repaso de los recursos informáticos para construcción de matrices con editor de texto, el programa Mesquite y R. Para esta parte se deben descargar las siguientes matrices para este ejercicio: [ADN.tnt](/Clase_1/ADN.tnt), [morfologia.tnt](/Clase_1/morfologia.tnt),[morfologia.nex](/Clase_1/morfologia.nex), [ADN.nex](/Clase_1/ADN.nex), [ADN.phy](/Clase_1/ADN.phy), [ADN_1.nex](/Clase_1/ADN_1.nex), [ADN_2.nex](/Clase_1/ADN_2.nex). 
+**[Clase 1.](/clase_1/clase_1.pdf)** Se hará un breve repaso de los recursos informáticos para construcción de matrices con editor de texto, el programa Mesquite y R. Para esta parte se deben descargar las siguientes matrices para este ejercicio: [ADN.tnt](/Clase_1/ADN.tnt), [morfologia.tnt](/Clase_1/morfologia.tnt),[morfologia.nex](/Clase_1/morfologia.nex), [ADN.nex](/Clase_1/ADN.nex), [ADN.phy](/Clase_1/ADN.phy), [ADN_1.nex](/Clase_1/ADN_1.nex), [ADN_2.nex](/Clase_1/ADN_2.nex). 
 
 **[Ir al taller aquí](/Clase_1/Taller_matrices.md)**
 
