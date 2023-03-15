@@ -110,3 +110,18 @@ Como complemento de la clase, cada estudiante deberá hacer el siguiente taller 
 
 - Máxima verosimilitud en R [ir al Script de R aquí](/Clase_5/ML.R). Para este taller usaremos la matriz de ADN de primates del siguiente enlace: [ADN.nex](/Clase_1/ADN.nex). 
 - Máxima verosimilitud en RAxML-GUI
+
+#
+
+**Clase 7. Inferencia Bayesiana.** El objetivo de esta clase es el de aprender como implementar la estadística bayesiana en el contexto de la inferencia filogenética. Para esto, presentaré una corta clase de conceptos fundamentales (bajar diapositivas [aquí](/Clase_7/clase_9.pdf) y haremos un ejercicio práctico de inferencia filogenética con el programa [BEAST](https://www.beast2.org/).
+
+<p align="center">
+  <img src="https://anabelforte.com/wp-content/uploads/2020/04/Thomas_Bayes.gif" width="250" height="270" />
+</p>
+
+Para la práctica usaremos la matriz [ADN.nex](/Clase_1/ADN.nex) y analizaremos los resultados con los programas : [FigTree](https://github.com/rambaut/figtree/releases) y [Tracer](https://github.com/beast-dev/tracer/releases/tag/v1.7.1).
+
+**Nota:** La siguiente lecturas es un excelente complementos para la clase: [Huelsenbeck et al (2002)](/Clase_7/Bayesiano_2.pdf)
+
+**Tarea:** Leer para la próxima clase el siguiente artículo: [Sanderson & Schauffer (2002)](/Clase_7/Lectura.pdf).
+
