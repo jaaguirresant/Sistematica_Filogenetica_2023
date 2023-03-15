@@ -121,7 +121,7 @@ Como complemento de la clase, cada estudiante deberá hacer el siguiente taller 
 
 Para la práctica usaremos la matriz [ADN.nex](/Clase_1/ADN.nex) y analizaremos los resultados con los programas : [FigTree](https://github.com/rambaut/figtree/releases) y [Tracer](https://github.com/beast-dev/tracer/releases/tag/v1.7.1).
 
-**Nota:** La siguiente lecturas es un excelente complementos para la clase: [Huelsenbeck et al (2002)](/Clase_7/Bayesiano_2.pdf)
+**Nota:** La siguiente lectura es un excelente complemento para la clase: [Huelsenbeck et al (2002)](/Clase_7/Bayesiano_2.pdf)
 
 **Tarea:** Leer para la próxima clase el siguiente artículo: [Sanderson & Schauffer (2002)](/Clase_7/Lectura.pdf).
 
