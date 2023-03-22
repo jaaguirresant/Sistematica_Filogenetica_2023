@@ -123,5 +123,5 @@ Para la práctica usaremos la matriz [ADN.nex](/Clase_1/ADN.nex) y analizaremos 
 
 **Nota:** La siguiente lectura es un excelente complemento para la clase: [Huelsenbeck et al (2002)](/Clase_7/Bayesiano_2.pdf)
 
-**Tarea:** Leer para la próxima clase el siguiente artículo: [Sanderson & Schauffer (2002)](/Clase_7/Lectura.pdf).
+**Tarea:** Leer para la clase del lunes 27 de marzo el siguiente artículo: [Sanderson & Schauffer (2002)](/Clase_7/Lectura.pdf).
 
